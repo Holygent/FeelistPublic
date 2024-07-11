@@ -1,6 +1,6 @@
 Note: "FeelistPublic" is the name of this repository only. For reference, simply use "Feelist".
 
-# Feelist
+# [About Feelist](./README.md)
 Feelist is a relationship-based app.
 
 It is available worldwide on TestFlight as a Beta under v0.2.1 on iOS 17.0 or later, iPadOS 17.0 or later, macOS 14.0 or later, and visionOS 1.0 or later.
