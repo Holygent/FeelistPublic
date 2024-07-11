@@ -12,10 +12,10 @@ Feelist allows people to see how much they like and love people in a questionnai
 Other features include Lists which allows users to share multiple people together, Map which allows users to see where their friend is and react to their location, and more.
 <br><br><br>
 Feelist uses Firebase to make the user's data available on all their devices, let them join a List and share their location, process analytics, and more.
-<br>
 > [!NOTE]
 > Firebase-related files and information are not included in this repository for security purposes. However, non-risky functions like read or write may be found across the repo.
 
+<br>
 ### Availability
 Feelist was developed exclusively for Apple platforms, somewhat due to my knowledge limitations on Android.
 <br><br>
