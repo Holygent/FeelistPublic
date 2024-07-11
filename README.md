@@ -1,4 +1,8 @@
-Note: "FeelistPublic" is the name of this repository only. For reference, simply use "Feelist".
+> [!IMPORTANT]
+> This repo is under construction. Please come back later or [contact me](mailto:holygent@outlook.com) to stay updated.
+
+> [!NOTE]
+> "FeelistPublic" is the name of this repository only. For reference, simply use "Feelist".
 
 # [About Feelist](./README.md)
 Feelist is a relationship-based app.
