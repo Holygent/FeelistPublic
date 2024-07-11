@@ -4,7 +4,7 @@
 > [!NOTE]
 > "FeelistPublic" is the name of this repository only. For reference, simply use "Feelist".
 
-# [About Feelist](README.md)
+# [About Feelist](./README.md)
 Feelist is a relationship-based app.
 <br><br>
 **Description**
