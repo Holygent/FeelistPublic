@@ -16,5 +16,5 @@ Other features include Lists which allows users to share multiple people togethe
 
 
 Feelist uses Firebase to make the user's data available on all their devices, let them join a List and share their location, process analytics, and more.
-
-Firebase-related files and information are not included in this repository for security purposes. However, non-risky functions like read or write may be found across the repo.
+> [!NOTE]
+> Firebase-related files and information are not included in this repository for security purposes. However, non-risky functions like read or write may be found across the repo.
