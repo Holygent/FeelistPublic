@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repo is under construction. Please come back later, watch, or [subscribe via email](mailto:holygent@outlook.com) to stay updated.
+> This repo is under construction. Please come back later, watch, or [subscribe via email](mailto:holygent@outlook.com?subject=SUBSCRIBE%20TO%20FEELIST%20REPO&body=DO%20NOT%20EDIT%20THIS%0D%0A%0D%0ASUBSCRIBE%20TO%20FEELIST%20REPO) to stay updated.
 
 > [!NOTE]
 > "FeelistPublic" is the name of this repository only. For reference, simply use "Feelist".
