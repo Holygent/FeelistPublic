@@ -16,7 +16,6 @@ Feelist uses Firebase to make the user's data available on all their devices, le
 > [!NOTE]
 > Firebase-related files and information are not included in this repository for security purposes. However, non-risky functions like read or write may be found across the repo.
 
-<br><br><br>
 ### Availability
 Feelist was developed exclusively for Apple platforms, somewhat due to my knowledge limitations on Android.
 <br><br>
