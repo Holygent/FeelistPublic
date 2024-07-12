@@ -16,7 +16,7 @@ Feelist uses Firebase to make the user's data available on all their devices, le
 > Firebase-related files and information are not included in this repository for security purposes. However, non-risky functions like read or write may be found across the repo.
 
 # Test v0.2.1 on your Apple device
-<a href="https://testflight.apple.com/join/iWm3YqWJ"><img src="https://askyourself.app/assets/testflight.png" width="200"></a>
+<a href="https://testflight.apple.com/join/wRet2zme"><img src="https://askyourself.app/assets/testflight.png" width="200"></a>
 <br><br>
 Feelist was developed exclusively for Apple platforms, somewhat due to my knowledge limitations on Android.
 <br><br>
