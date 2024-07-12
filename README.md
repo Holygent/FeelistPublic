@@ -4,7 +4,7 @@
 > [!NOTE]
 > "FeelistPublic" is the name of this repository only. For reference, simply use "Feelist".
 
-# [About Feelist](./README.md)
+# About Feelist
 Feelist is a relationship-based app.
 <br><br><br>
 Feelist allows people to see how much they like and love people in a questionnaire- or slider-based way ("testing"). The app generates from the responses a descending list of people the user prefers the most, as well as a percentage preference and a description for each person.
@@ -15,9 +15,11 @@ Feelist uses Firebase to make the user's data available on all their devices, le
 > [!NOTE]
 > Firebase-related files and information are not included in this repository for security purposes. However, non-risky functions like read or write may be found across the repo.
 
+# Test v0.2.1 on your Apple device
+<a href="https://testflight.apple.com/join/iWm3YqWJ"><img src="https://askyourself.app/assets/testflight.png" width="200"></a>
 <br><br>
 Feelist was developed exclusively for Apple platforms, somewhat due to my knowledge limitations on Android.
 <br><br>
 The app is available worldwide on TestFlight as a Beta under v0.2.1 on iOS 17.0 or later, iPadOS 17.0 or later, macOS 14.0 or later, and visionOS 1.0 or later.
-<br><br>
+<br>
 Despite its compatibility, the app keeps the iOS layout regardless of the software the user's on but I'm working on adding dynamic layout for v1.
