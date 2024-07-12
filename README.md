@@ -7,9 +7,9 @@
 # [About Feelist](./README.md)
 Feelist is a relationship-based app.
 <br><br><br>
-Feelist allows people to see how much they like and love people in a questionnaire- or slider-based way. The app generates from the responses a descending list of people the user prefers the most, as well as a percentage preference and a description for each person.
+Feelist allows people to see how much they like and love people in a questionnaire- or slider-based way ("testing"). The app generates from the responses a descending list of people the user prefers the most, as well as a percentage preference and a description for each person.
 <br><br>
-Other features include Lists which allows users to share multiple people together, Map which allows users to see where their friend is and react to their location, and more.
+Other features include Lists which allows users to test multiple people together, Map which allows users to see where their friend is and react to their location, and more.
 <br><br><br>
 Feelist uses Firebase to make the user's data available on all their devices, let them join a List and share their location, process analytics, and more.
 > [!NOTE]
